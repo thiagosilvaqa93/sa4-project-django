@@ -1,4 +1,4 @@
-# ♟️ SA4 – Django Project
+# SA4 – Django Project
 
 ## 📌 Description
 
