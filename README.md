@@ -1,8 +1,8 @@
-# ♟️ SA4 – Django Chess Club Project
+# ♟️ SA4 – Django Project
 
 ## 📌 Description
 
-This project was created for the SA4 academic activity. It is a Django-based application for managing a chess club (Clube de Xadrez Recife), where users can access and interact with chess-related content.
+This project was created for the SA4 academic activity. It is a Django-based application, where users can access and interact with the related content.
 
 ## 🚀 Technologies
 
