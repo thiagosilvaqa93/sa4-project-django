@@ -1,25 +1,17 @@
-# SA4 – Django Project
+# 💼 SA4 – JJ Investimentos Web App (Django Project)
 
 ## 📌 Description
 
-This project was created for the SA4 academic activity. It is a Django-based application, where users can access and interact with the related content.
+This project was developed as part of the SA4 academic activity. It simulates a basic website for **JJ Investimentos**, a fictional investment company, using the Django framework.
 
-## 🚀 Technologies
+The project includes static and dynamic pages, templates, and basic routing using Django views and URLs.
+
+## 🚀 Technologies Used
 
 - Python 3.11
 - Django 5.x
-- HTML/CSS (templates)
-- SQLite3 (default Django database)
+- HTML5 + CSS3 (in templates)
+- SQLite3 (default database)
 
-## ▶️ How to Run Locally
+## 📂 Project Structure
 
-Make sure you have Python installed.
-
-```bash
-git clone https://github.com/thiagosilvaqa93/sa4-teste-thiago-Silva
-cd sa4-teste-thiago-Silva
-python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
