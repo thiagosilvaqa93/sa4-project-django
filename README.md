@@ -1,9 +1,25 @@
-# case_techway
+# ♟️ SA4 – Django Chess Club Project
 
-Para executar o site do nosso cliente você precisa ter o `python` instalado na sua maquina e seguir os passos a seguir.
+## 📌 Description
 
-## Como executar
+This project was created for the SA4 academic activity. It is a Django-based application for managing a chess club (Clube de Xadrez Recife), where users can access and interact with chess-related content.
 
-1. **Instale o Django:** `pip install django`
-2. **Execute o Serviço:** `python manage.py runserver`
-3. **Acesse esse link:** Entre no link: http://127.0.0.1:8000
+## 🚀 Technologies
+
+- Python 3.11
+- Django 5.x
+- HTML/CSS (templates)
+- SQLite3 (default Django database)
+
+## ▶️ How to Run Locally
+
+Make sure you have Python installed.
+
+```bash
+git clone https://github.com/thiagosilvaqa93/sa4-teste-thiago-Silva
+cd sa4-teste-thiago-Silva
+python -m venv venv
+source venv/bin/activate  # ou venv\Scripts\activate no Windows
+pip install -r requirements.txt
+python manage.py migrate
+python manage.py runserver
