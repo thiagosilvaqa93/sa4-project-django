@@ -12,6 +12,3 @@ The project includes static and dynamic pages, templates, and basic routing usin
 - Django 5.x
 - HTML5 + CSS3 (in templates)
 - SQLite3 (default database)
-
-## 📂 Project Structure
-
